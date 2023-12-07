@@ -12,4 +12,3 @@ class Main {
   Vigenere v1 = new Vigenere(13,25,13,25,m);
   Thread t1 = new Thread(v);
 }
-//ASKDJSADPJàASDFASDLKFJJEWòQAD
